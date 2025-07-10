@@ -1,12 +1,28 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+# React Admin Dashboard App
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+This is a code repository for a React admin dashboard app.
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## Demo
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+[Live demo](https://react-admin-dashboard-app.netlify.app/)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Features
+
+- Theming
+- Tables
+- Charts
+- Calendar
+- Kanban
+- More
+
+## Quick Start
+
+1. Clone the repository: `git clone https://github.com/john-smilga/react-admin-dashboard-app.git`
+2. Install dependencies: `npm install`
+3. Start the app: `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Learn More
+
+For more information, check out the [video tutorial](https://www.youtube.com/watch?v=cxl0ZcFQ9X0) and the [blog post](https://www.jsmastery.pro/blog/build-and-deploy-a-react-admin-dashboard-app-with-theming-tables-charts-calendar-kanban-and-more/).
+
